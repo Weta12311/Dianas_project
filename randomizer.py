@@ -1,5 +1,5 @@
 def main():
-    from groups import group_1, group_2, group_3
+    from groups import group_1, group_2, group_3, group_4, group_5
     dict = input("Введите список группы\n")
     number_of_groups = input("Введите колличество групп\n")
     print(f'Группа 1:{group_1}')
